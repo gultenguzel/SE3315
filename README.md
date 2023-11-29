@@ -5,6 +5,7 @@
 The purpose of this project is to design and display a registration form.
 #### Technologies and programming languages ​​used:
 Html, Css, JavaScript, Bootstrap.
+
 #### Requirements
 
 -One background image
