@@ -1,6 +1,8 @@
 # SE3315
 ## Midterm
-### Regıstration Form
+### Registration Form
+#### Goal
+The purpose of this project is to create a form using html, css, javascript and bootstrap.
 
  
  
